@@ -1,2 +1,3 @@
 exclude:
   - node_modules
+  - techhive-user-management-api/node_modules
